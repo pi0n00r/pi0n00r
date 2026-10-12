@@ -31,7 +31,7 @@ for self-hosted infrastructure and local AI.
 
 ## Downloads
 
-- [Nextcloud MCP Server container](https://github.com/pi0n00r/nextcloud-mcp-server/pkgs/container/nextcloud-mcp-server)
+- [Bridgette container](https://github.com/pi0n00r/nextcloud-mcp-server/pkgs/container/nextcloud-mcp-server)
 - [Ava Docker deployment kits](https://github.com/pi0n00r/AVA-AI-Voice-Agent-for-Asterisk/releases)
 - [Cara Windows installers](https://github.com/pi0n00r/cara/releases)
 - [llm_proxy container](https://github.com/pi0n00r/llm_proxy/pkgs/container/llm_proxy)
