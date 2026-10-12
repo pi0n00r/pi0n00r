@@ -18,9 +18,9 @@ for self-hosted infrastructure and local AI.
 
 ## Maintained projects
 
-- [Nextcloud MCP Server](https://github.com/pi0n00r/nextcloud-mcp-server) -
+- [Bridgette](https://github.com/pi0n00r/nextcloud-mcp-server) -
   production-ready access to 185 tools across 13 Nextcloud application surfaces
-- [Ava for Asterisk](https://github.com/pi0n00r/AVA-AI-Voice-Agent-for-Asterisk) -
+- [Ava](https://github.com/pi0n00r/AVA-AI-Voice-Agent-for-Asterisk) -
   upstream-connected voice-agent fork with a ready-to-use Docker deployment kit
 - [Cara](https://github.com/pi0n00r/cara) - local-first desktop agent workspace
   for self-hosted models, MCP tools, and private knowledge
